@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Pelaajanpisteet.js">
+    <Files>
+      <File FileName="Assets\Taskulamppu.js" Line="20" Column="32" />
+      <File FileName="Assets\Triggers\SyoKebub.js" Line="15" Column="10" />
+      <File FileName="Assets\Triggers\PointsGui.js" Line="3" Column="1" />
+      <File FileName="Assets\Pelaajanpisteet.js" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
