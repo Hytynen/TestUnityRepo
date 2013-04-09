@@ -138,6 +138,7 @@
      <Compile Include="Assets\Triggers\SyoKebub.js" />
      <Compile Include="Assets\Triggers\haamupöyteliini.js" />
      <Compile Include="Assets\Triggers\katkarapu.js" />
+     <Compile Include="Assets\Triggers\ovenavaus.js" />
      <Compile Include="Assets\Triggers\tunaktunkatn.js" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\Image Based\Sources\Shaders\_DepthOfField\SeparableWeightedBlur.shader" />

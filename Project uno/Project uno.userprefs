@@ -1,11 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Triggers\tunaktunkatn.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Triggers\ovenavaus.js">
     <Files>
-      <File FileName="Assets\Triggers\tunaktunkatn.js" Line="18" Column="24" />
+      <File FileName="Assets\Triggers\ovenavaus.js" Line="11" Column="31" />
+      <File FileName="Assets\Triggers\tunaktunkatn.js" Line="8" Column="1" />
       <File FileName="Assets\Triggers\katkarapu.js" Line="1" Column="1" />
       <File FileName="Assets\Triggers\haamupöyteliini.js" Line="9" Column="35" />
-      <File FileName="Assets\Taskulamppu.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
