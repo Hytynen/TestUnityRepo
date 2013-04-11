@@ -15,5 +15,5 @@ function Update () {
 	var otherVar = yourVar.Points;
 	pointss = otherVar.ToString();
 
-	guiText.text = pointss;
+	guiText.text = "Points = "+pointss;
 }

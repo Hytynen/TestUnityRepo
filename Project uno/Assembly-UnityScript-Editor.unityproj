@@ -44,9 +44,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Editor\CutsceneBirdsEditor.js" />
      <Compile Include="Assets\Editor\SoundObjectEditor.js" />
-     <Compile Include="Assets\Scripts\huds\sarge\Editor\SargeHelper.js" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\Image Based\Sources\Shaders\_DepthOfField\SeparableWeightedBlur.shader" />
      <None Include="Assets\Pro Standard Assets\Glass Refraction\Glass-Stained-BumpDistort.shader" />

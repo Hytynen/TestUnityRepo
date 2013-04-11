@@ -58,13 +58,6 @@
      <Compile Include="Assets\Locomotion System\PolarGradientBandInterpolator.cs" />
      <Compile Include="Assets\Locomotion System\TrajectoryVisualizer.cs" />
      <Compile Include="Assets\Locomotion System\Util.cs" />
-     <Compile Include="Assets\Scripts\glass\GlassManager.cs" />
-     <Compile Include="Assets\Scripts\glass\GlassMark.cs" />
-     <Compile Include="Assets\Scripts\glass\GlassScript.cs" />
-     <Compile Include="Assets\Scripts\glass\GlassStruct.cs" />
-     <Compile Include="Assets\Scripts\graphics\WatterPuddle.cs" />
-     <Compile Include="Assets\Scripts\misc\GameSoundManager.cs" />
-     <Compile Include="Assets\Scripts\physics\IgnoreCollider.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\Image Based\Sources\Shaders\_DepthOfField\SeparableWeightedBlur.shader" />
      <None Include="Assets\Pro Standard Assets\Glass Refraction\Glass-Stained-BumpDistort.shader" />
