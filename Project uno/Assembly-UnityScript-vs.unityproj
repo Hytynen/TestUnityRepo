@@ -46,6 +46,7 @@
   <ItemGroup>
      <Compile Include="Assets\Pelaajanpisteet.js" />
      <Compile Include="Assets\Scripts\KebabRullalle.js" />
+     <Compile Include="Assets\Scripts\KytkinRullalle.js" />
      <Compile Include="Assets\Taskulamppu.js" />
      <Compile Include="Assets\Triggers\PointsGui.js" />
      <Compile Include="Assets\Triggers\SyoKebub.js" />
