@@ -1,6 +1,6 @@
 #pragma strict
 var Target : Collider;
-private var Triggered : boolean = false;
+static var Triggered : boolean = false;
 
 function Start(){
 

@@ -1,6 +1,17 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LataaPaikka.js">
+    <Files>
+      <File FileName="Assets\Scripts\Savetus.js" Line="10" Column="2" />
+      <File FileName="Assets\Triggers\PointsGui.js" Line="1" Column="1" />
+      <File FileName="Assets\Pelaajanpisteet.js" Line="1" Column="1" />
+      <File FileName="Assets\Triggers\SyoKebub.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\KebabRullalle.js" Line="1" Column="1" />
+      <File FileName="Assets\Triggers\ovenavaus.js" Line="19" Column="65" />
+      <File FileName="Assets\Scripts\TallennaPaikka.js" Line="8" Column="1" />
+      <File FileName="Assets\Scripts\LataaPaikka.js" Line="5" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

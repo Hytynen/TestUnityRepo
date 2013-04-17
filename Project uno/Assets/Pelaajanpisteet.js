@@ -1,6 +1,6 @@
 
 
-var Points : int;
+static var Points : int;
 
 
 function Start () {
