@@ -14,13 +14,5 @@ function Update () {
 			GetComponent(Taskulamppu).light.range = 100;
 			}
 			
-	}
-	if (Input.GetButtonDown("Fire2")){
-		
-		if(Lamppu.light.range == 50){
-		Lamppu.light.range = 0;
-		}else if (Lamppu.light.range == 0){
-		Lamppu.light.range = 50;
-		}
 	}	
 }

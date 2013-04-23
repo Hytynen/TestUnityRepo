@@ -1,15 +1,18 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Triggers\ovenavaus.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Triggers\haamupöyteliini.js">
     <Files>
+      <File FileName="Assets\Scripts\Savetus.js" Line="2" Column="7" />
+      <File FileName="Assets\Triggers\haamupöyteliini.js" Line="12" Column="2" />
       <File FileName="Assets\Scripts\LataaPaikka.js" Line="8" Column="39" />
-      <File FileName="Assets\Scripts\Savetus.js" Line="3" Column="33" />
       <File FileName="Assets\Triggers\PointsGui.js" Line="1" Column="1" />
-      <File FileName="Assets\Pelaajanpisteet.js" Line="1" Column="25" />
+      <File FileName="Assets\Pelaajanpisteet.js" Line="1" Column="1" />
       <File FileName="Assets\Triggers\SyoKebub.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\KebabRullalle.js" Line="1" Column="1" />
-      <File FileName="Assets\Triggers\ovenavaus.js" Line="3" Column="19" />
+      <File FileName="Assets\Scripts\KebabRullalle.js" Line="2" Column="18" />
+      <File FileName="Assets\Triggers\ovenavaus.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\TallennaPaikka.js" Line="3" Column="32" />
+      <File FileName="Assets\Taskulamppu.js" Line="1" Column="1" />
+      <File FileName="Assets\Triggers\tunaktunkatn.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,13 +1,12 @@
 #pragma strict
-
+var objekti : GameObject;
 function Start () {
 
 }
 
 function Update () {
-var poyta=gameObject.Find("jakkarapöytä");
 if (Input.GetButtonDown("Fire3")){
 var sd : Rigidbody;
-sd=poyta.AddComponent("Rigidbody");
+sd=objekti.AddComponent("Rigidbody");
 }
 }
